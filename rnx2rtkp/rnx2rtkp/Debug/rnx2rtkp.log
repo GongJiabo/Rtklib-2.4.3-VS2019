@@ -1,0 +1,42 @@
+﻿  datum.c
+  ephemeris.c
+  geoid.c
+  gis.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\rnx2rtkp\rnx2rtkp\gis.c(312,26): warning C4101: “q”: 未引用的局部变量
+  ionex.c
+  lambda.c
+  options.c
+  pntpos.c
+  postpos.c
+  ppp.c
+  ppp_ar.c
+  ppp_corr.c
+  preceph.c
+  qzslex.c
+  rinex.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\rnx2rtkp\rnx2rtkp\rinex.c(218,39): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  rnx2rtkp.c
+  rtcm.c
+  rtcm2.c
+  rtcm3.c
+  rtcm3e.c
+  正在生成代码...
+  正在编译...
+  rtkcmn.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\rnx2rtkp\rnx2rtkp\rtkcmn.c(3115,24): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“WCHAR *”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\rnx2rtkp\rnx2rtkp\rtkcmn.c(3115,24): message : 请考虑在格式字符串中使用“%ls”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\rnx2rtkp\rnx2rtkp\rtkcmn.c(3115,24): message : 请考虑在格式字符串中使用“%lls”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\rnx2rtkp\rnx2rtkp\rtkcmn.c(3115,24): message : 请考虑在格式字符串中使用“%Ls”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\rnx2rtkp\rnx2rtkp\rtkcmn.c(3115,24): message : 请考虑在格式字符串中使用“%ws”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\rnx2rtkp\rnx2rtkp\rtkcmn.c(3118,28): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“WCHAR *”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\rnx2rtkp\rnx2rtkp\rtkcmn.c(3118,28): message : 请考虑在格式字符串中使用“%ls”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\rnx2rtkp\rnx2rtkp\rtkcmn.c(3118,28): message : 请考虑在格式字符串中使用“%lls”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\rnx2rtkp\rnx2rtkp\rtkcmn.c(3118,28): message : 请考虑在格式字符串中使用“%Ls”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\rnx2rtkp\rnx2rtkp\rtkcmn.c(3118,28): message : 请考虑在格式字符串中使用“%ws”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\rnx2rtkp\rnx2rtkp\rtkcmn.c(3178,25): warning C4133: “函数”: 从“char [1024]”到“LPCWSTR”的类型不兼容
+  rtkpos.c
+  sbas.c
+  solution.c
+  tides.c
+  正在生成代码...
+  rnx2rtkp.vcxproj -> C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\rnx2rtkp\Debug\rnx2rtkp.exe

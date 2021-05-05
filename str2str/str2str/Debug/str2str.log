@@ -1,0 +1,102 @@
+﻿  convgpx.c
+  convkml.c
+  convrnx.c
+  datum.c
+  download.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\download.c(132,39): warning C4133: “函数”: 从“const char *”到“LPCWSTR”的类型不兼容
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\download.c(286,29): warning C4133: “函数”: 从“char [1024]”到“LPCWSTR”的类型不兼容
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\download.c(292,28): warning C4133: “函数”: 从“const char *”到“LPCWSTR”的类型不兼容
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\download.c(322,9): warning C4101: “stat”: 未引用的局部变量
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\download.c(506,22): warning C4101: “remot_p”: 未引用的局部变量
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\download.c(777,12): warning C4101: “tow”: 未引用的局部变量
+  ephemeris.c
+  geoid.c
+  gis.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\gis.c(312,25): warning C4101: “q”: 未引用的局部变量
+  ionex.c
+  lambda.c
+  options.c
+  pntpos.c
+  postpos.c
+  ppp.c
+  ppp_ar.c
+  ppp_corr.c
+  preceph.c
+  qzslex.c
+  rcvraw.c
+  binex.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\binex.c(1095,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\binex.c(1120,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  cmr.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\cmr.c(2439,31): warning C4244: “=”: 从“double”转换到“time_t”，可能丢失数据
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\cmr.c(2556,38): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\cmr.c(2557,38): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  crescent.c
+  gw10.c
+  javad.c
+  novatel.c
+  nvs.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\nvs.c(105,46): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\nvs.c(267,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  rcvlex.c
+  rt17.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\rt17.c(1781,42): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\rt17.c(1794,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\rt17.c(1804,42): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\rt17.c(1830,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  septentrio.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\septentrio.c(369,33): warning C4244: “=”: 从“int16_t”转换到“unsigned char”，可能丢失数据
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\septentrio.c(406,44): warning C4244: “=”: 从“int16_t”转换到“unsigned char”，可能丢失数据
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\septentrio.c(414,52): warning C4244: “=”: 从“uint16_t”转换到“unsigned char”，可能丢失数据
+  skytraq.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\skytraq.c(197,52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\skytraq.c(319,21): warning C4244: “=”: 从“unsigned short”转换到“unsigned char”，可能丢失数据
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rcv\skytraq.c(326,52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  ss2.c
+  tersus.c
+  ublox.c
+  rinex.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rinex.c(218,39): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  rtcm.c
+  rtcm2.c
+  rtcm3.c
+  rtcm3e.c
+  rtkcmn.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rtkcmn.c(3115,24): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“WCHAR *”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rtkcmn.c(3115,24): message : 请考虑在格式字符串中使用“%ls”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rtkcmn.c(3115,24): message : 请考虑在格式字符串中使用“%lls”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rtkcmn.c(3115,24): message : 请考虑在格式字符串中使用“%Ls”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rtkcmn.c(3115,24): message : 请考虑在格式字符串中使用“%ws”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rtkcmn.c(3118,28): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“WCHAR *”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rtkcmn.c(3118,28): message : 请考虑在格式字符串中使用“%ls”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rtkcmn.c(3118,28): message : 请考虑在格式字符串中使用“%lls”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rtkcmn.c(3118,28): message : 请考虑在格式字符串中使用“%Ls”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rtkcmn.c(3118,28): message : 请考虑在格式字符串中使用“%ws”
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\rtkcmn.c(3178,25): warning C4133: “函数”: 从“char [1024]”到“LPCWSTR”的类型不兼容
+  rtkpos.c
+  正在生成代码...
+  正在编译...
+  rtksvr.c
+  sbas.c
+  solution.c
+  str2str.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\str2str.c(337,56): warning C4047: “函数”:“char *”与“char *[5]”的间接级别不同
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\str2str.c(337,52): warning C4024: “strsvrstart”: 形参和实参 6 的类型不同
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\str2str.c(364,28): warning C4047: “函数”:“char *”与“char *[5]”的间接级别不同
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\str2str.c(364,24): warning C4024: “strsvrstop”: 形参和实参 2 的类型不同
+  stream.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\stream.c(385,31): warning C4133: “函数”: 从“char [128]”到“LPCWSTR”的类型不兼容
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\stream.c(400,26): warning C4133: “函数”: 从“char [64]”到“LPCWSTR”的类型不兼容
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\stream.c(775,12): warning C4101: “rs”: 未引用的局部变量
+  streamsvr.c
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\streamsvr.c(647,41): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\streamsvr.c(647,38): warning C4024: “strsendcmd”: 形参和实参 2 的类型不同
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\streamsvr.c(680,54): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\str2str\streamsvr.c(680,51): warning C4024: “strsendcmd”: 形参和实参 2 的类型不同
+  tides.c
+  tle.c
+  正在生成代码...
+    正在创建库 C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\Debug\str2str.lib 和对象 C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\Debug\str2str.exp
+  str2str.vcxproj -> C:\Users\GONG\Desktop\Rtklib\Rtklib-Vs-demo\str2str\Debug\str2str.exe

@@ -1,0 +1,65 @@
+﻿  binex.c
+C:\Users\GONG\Desktop\rtknavi\rtknavi\binex.c(1002,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\GONG\Desktop\rtknavi\rtknavi\binex.c(1027,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  cmr.c
+C:\Users\GONG\Desktop\rtknavi\rtknavi\cmr.c(2442,31): warning C4244: “=”: 从“double”转换到“time_t”，可能丢失数据
+C:\Users\GONG\Desktop\rtknavi\rtknavi\cmr.c(2559,38): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\GONG\Desktop\rtknavi\rtknavi\cmr.c(2560,38): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  crescent.c
+  ephemeris.c
+  geoid.c
+  gw10.c
+  ionex.c
+  javad.c
+  lambda.c
+  novatel.c
+C:\Users\GONG\Desktop\rtknavi\rtknavi\novatel.c(1037,27): warning C4101: “tow”: 未引用的局部变量
+C:\Users\GONG\Desktop\rtknavi\rtknavi\novatel.c(1037,19): warning C4101: “Zweek”: 未引用的局部变量
+C:\Users\GONG\Desktop\rtknavi\rtknavi\novatel.c(1037,25): warning C4101: “N”: 未引用的局部变量
+  nvs.c
+C:\Users\GONG\Desktop\rtknavi\rtknavi\nvs.c(106,46): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\GONG\Desktop\rtknavi\rtknavi\nvs.c(268,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  options.c
+  pntpos.c
+  ppp.c
+  ppp_ar.c
+  ppp_corr.c
+  preceph.c
+  qzslex.c
+  rcvraw.c
+  rinex.c
+  正在生成代码...
+  正在编译...
+  rt17.c
+C:\Users\GONG\Desktop\rtknavi\rtknavi\rt17.c(1783,42): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\GONG\Desktop\rtknavi\rtknavi\rt17.c(1796,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\GONG\Desktop\rtknavi\rtknavi\rt17.c(1806,42): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\GONG\Desktop\rtknavi\rtknavi\rt17.c(1832,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  rtcm.c
+  rtcm2.c
+  rtcm3.c
+  rtcm3e.c
+  rtkcmn.c
+  rtkpos.c
+  rtkrcv.c
+C:\Users\GONG\Desktop\rtknavi\rtknavi\rtkrcv.c(1568,42): warning C4101: “cmd”: 未引用的局部变量
+  rtksvr.c
+  sbas.c
+  septentrio.c
+C:\Users\GONG\Desktop\rtknavi\rtknavi\septentrio.c(369,33): warning C4244: “=”: 从“int16_t”转换到“unsigned char”，可能丢失数据
+C:\Users\GONG\Desktop\rtknavi\rtknavi\septentrio.c(406,44): warning C4244: “=”: 从“int16_t”转换到“unsigned char”，可能丢失数据
+C:\Users\GONG\Desktop\rtknavi\rtknavi\septentrio.c(414,52): warning C4244: “=”: 从“uint16_t”转换到“unsigned char”，可能丢失数据
+C:\Users\GONG\Desktop\rtknavi\rtknavi\septentrio.c(2073,64): warning C4244: “函数”: 从“int64_t”转换到“double”，可能丢失数据
+  skytraq.c
+C:\Users\GONG\Desktop\rtknavi\rtknavi\skytraq.c(178,52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  solution.c
+  ss2.c
+  stream.c
+C:\Users\GONG\Desktop\rtknavi\rtknavi\stream.c(762,12): warning C4101: “rs”: 未引用的局部变量
+  tides.c
+  ublox.c
+  vt.c
+  正在生成代码...
+C:\Users\GONG\Desktop\rtknavi\rtknavi\rtkrcv.c(1450): warning C4700: 使用了未初始化的局部变量“sock”
+C:\Users\GONG\Desktop\rtknavi\rtknavi\rtkrcv.c(1452): warning C4700: 使用了未初始化的局部变量“addr”
+  rtknavi.vcxproj -> C:\Users\GONG\Desktop\rtknavi\Debug\rtknavi.exe

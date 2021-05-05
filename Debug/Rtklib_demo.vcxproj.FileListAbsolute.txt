@@ -1,4 +1,0 @@
-C:\Users\GONG\Desktop\Rtklib\Rtklib_demo\Debug\Rtklib_demo.exe
-C:\Users\GONG\Desktop\Rtklib\Rtklib_demo\Debug\Rtklib_demo.pdb
-C:\Users\GONG\Desktop\Rtklib\Rtklib_demo\Rtklib-2.4.3-VS2019\Debug\Rtklib_demo.exe
-C:\Users\GONG\Desktop\Rtklib\Rtklib_demo\Rtklib-2.4.3-VS2019\Debug\Rtklib_demo.pdb
